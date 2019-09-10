@@ -8,10 +8,10 @@ Finder Web Site Admin Login Page
 
 * apt-get install git
 
-* git clone 
+* git clone https://github.com/AngelSecurityTeam/Security-Admin
 
-* cd 
+* cd Security-Admin
 
-* python3 
+* python3 securityadmin.py
 
-<img src="">
+<img src="https://github.com/AngelSecurityTeam/Security-Admin/blob/master/security_admin_foto.png">
