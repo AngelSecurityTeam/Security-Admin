@@ -12,6 +12,6 @@ Finder Web Site Admin Login Page
 
 * cd Security-Admin
 
-* python3 securityadmin.py
+* python3 security-admin.py
 
 <img src="https://github.com/AngelSecurityTeam/Security-Admin/blob/master/security_admin_foto.png">
