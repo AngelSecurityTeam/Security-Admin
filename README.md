@@ -6,7 +6,7 @@ Finder Web Site Admin Login Page
 
 * apt-get install python3
 
-* apt-get install gits
+* apt-get install git
 
 * git clone https://github.com/AngelSecurityTeam/Security-Admin
 
