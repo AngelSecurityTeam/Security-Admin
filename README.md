@@ -11,7 +11,7 @@ Finder Web Site Admin Login Page
 * git clone https://github.com/AngelSecurityTeam/Security-Admin
 
 * cd Security-Admin
-
+a
 * pip install urllib3
 
 * python3 security-admin.py
