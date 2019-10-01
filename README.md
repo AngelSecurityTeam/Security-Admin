@@ -17,3 +17,7 @@ Finder Web Site Admin Login Page
 * python3 security-admin.py
 
 <img src="https://github.com/AngelSecurityTeam/Security-Admin/blob/master/security_admin_foto.png">
+
+<h3> Paypal donations: </h3>
+
+* https://www.paypal.me/AngelSecurityTeam
