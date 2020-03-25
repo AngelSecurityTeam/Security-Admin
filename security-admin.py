@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys , urllib.request , os, time
 
 def timebanner(s):
