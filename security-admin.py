@@ -9,7 +9,7 @@ def timebanner(s):
 
         sys.stdout.flush()
 
-        time.sleep( 0 / 100)
+        time.sleep( 0 / 1000)
 
 timebanner(" ")
 timebanner("\033[1;1m███████╗███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗      █████╗ ██████╗ ███╗   ███╗██╗███╗   ██╗")
